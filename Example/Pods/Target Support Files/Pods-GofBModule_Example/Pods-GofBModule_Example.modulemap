@@ -1,0 +1,6 @@
+framework module Pods_GofBModule_Example {
+  umbrella header "Pods-GofBModule_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
